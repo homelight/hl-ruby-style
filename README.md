@@ -8,7 +8,7 @@ Add this line to your application's Gemfile:
 
 ```ruby
 group :development do
-  gem "hl-ruby-style"
+  gem "hl_ruby_style"
 end
 ```
 
