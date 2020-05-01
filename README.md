@@ -1,5 +1,3 @@
-# WORK IN PROGRESS REPO
-
 # HomeLight Ruby Style
 
 HomeLight shared ruby style configs.
@@ -10,7 +8,7 @@ Add this line to your application's Gemfile:
 
 ```ruby
 group :development do
-  gem 'hl-ruby-style', github: "homelight/hl-ruby-style"
+  gem "hl-ruby-style"
 end
 ```
 
